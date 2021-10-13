@@ -244,6 +244,11 @@ code, pre {
   padding: 4rem;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
 .showcase {
   height: 400px;
   background-color: var(--vivid-blue);
